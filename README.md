@@ -1,7 +1,7 @@
-<h1 align:center> Hello there,  i'm Kefelle</h1>
+<h1 align="center"> Hello there,  i'm Kefelle</h1>
 
 
-<p style="align:center">I'm a CSE student from Algeria, with an unbridled passion for programming and a solid fascination in both frontend and backend development.</p>
+<p align="center">I'm a CSE student from Algeria, with an unbridled passion for programming and a solid fascination in both frontend and backend development.</p>
 <p style="align:center">I absolutely love diving into new technologies, exploring the depths of their capabilities, and finding ingenious solutions to intricate problems.</p>
 <h3 style="align:center">Why Programming</h3>
 _“Programming is the new literacy of the digital age, and like every other form of literacy, it empowers those who learn it to change their lives and the world around them.”_
