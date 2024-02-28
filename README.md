@@ -1,6 +1,5 @@
 <h1 style="text-align:center"> Hello there,  i'm Kefelle</h1>
 
-<hr>
 
 <p style="text-align:center">I'm a CSE student from Algeria, with an unbridled passion for programming and a solid fascination in both frontend and backend development.</p>
 <p style="text-align:center">I absolutely love diving into new technologies, exploring the depths of their capabilities, and finding ingenious solutions to intricate problems.</p>
