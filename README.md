@@ -13,4 +13,4 @@
 <p align="center">Passionate about harnessing the power of diverse programming languages, I'm driven to craft tools that enhance our daily lives. My enthusiasm extends to the realm of software engineering, where I thrive on the challenge of building robust, scalable solutions that tackle real-world problems. From web applications to system software, I relish the opportunity to architect elegant solutions that drive efficiency and innovation.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=issamramzi&show_icons=true&locale=en&layout=compact" alt="issamramzi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issamramzi&show_icons=true&locale=en" alt="issamramzi" /></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issamramzi&show_icons=true&locale=en" alt="issamramzi" /></p>
