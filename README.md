@@ -1,7 +1,7 @@
 <h1> whoami</h1>
 
 
-<p align="center">I'm a CSE student from Algeria, with an unbridled passion for programming and a solid fascination in both frontend and backend development.</p>
+<p align="center">I'm a CSE student from Algeria - France, with an unbridled passion for programming and a solid fascination in both frontend and backend development.</p>
 <p align="center"">I absolutely love diving into new technologies, exploring the depths of their capabilities, and finding ingenious solutions to intricate problems.</p>
 
 <h3 align="center">Languages and Tools:</h3>
